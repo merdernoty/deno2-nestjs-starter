@@ -103,4 +103,4 @@ deno2-nestjs-starter/
 
 ### 📄 Лицензия
 
-MIT © Igor Zimin
+MIT © [merdernoty](https://github.com/merdernoty)
