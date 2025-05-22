@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@nest/": "https://deno.land/x/nest@v0.0.13/",
+    "oak": "https://deno.land/x/oak@v12.5.0/"
+  }
+}
